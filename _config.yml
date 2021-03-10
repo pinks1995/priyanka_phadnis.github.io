@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Priyanka Phadnis # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Graduate student Intern at Homesite Insurance.
+  Master of Science in Data Science at WPI 
   <br><br>
-  Second description 
+  Skilled in predictive modelling, neural neutrals , and software development.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/priyankaphadnis/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
