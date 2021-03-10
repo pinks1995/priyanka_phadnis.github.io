@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Predicting Customer Churn using Machine Learning in Python](https://github.com/pinks1995/Predict-Telecom-Customer-Churn)
+[Project 2 Predicting Customer Churn using Machine Learning in Python https://github.com/pinks1995/Predict-Telecom-Customer-Churn](https://github.com/pinks1995/Predict-Telecom-Customer-Churn)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
