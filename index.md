@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Visual Question Answering](https://github.com/kratika1008/DS541_DeepLearning/tree/master/Visual_Question_Answering)
+[https://github.com/kratika1008/DS541_DeepLearning/tree/master/Visual_Question_Answerin "Visual Question Answering"]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -13,6 +13,7 @@
 
 ---
 [Project 3 Predicting Salary using Machine Learning](http://example.com/)
+<p 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
